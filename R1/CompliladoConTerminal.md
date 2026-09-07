@@ -1,0 +1,2 @@
+Usar el compildado desde la terminal llamando directamente al compilador por eso en la sitaxis empieza g++
+ los demas elementos especifican version del compilado y opciones extra para detectar errores.
