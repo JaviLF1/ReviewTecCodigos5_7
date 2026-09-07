@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+Debug/
+Release/
+x64/
+x86/
+
+
+*.VC.db
+*.VC.opendb
+
+
+*.obj
+*.pdb
+
+*.exe
+*.ilk
